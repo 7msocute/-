@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="../練習/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	
+	
+	<div class="clickme" tabindex="0">點這裡</div>
+<div class="showthis">出現了</div>
+</body>
+</html>
